@@ -1,6 +1,10 @@
 # Clash Party 下载软件教程分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="ClashParty" src="https://github.com/user-attachments/assets/24d5924f-2bea-4c02-b942-1c8dda7d2a90" />
+</div>
+<br>
 
 ## :memo: Clash Party 节点资源
 
